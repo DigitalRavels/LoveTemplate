@@ -1,0 +1,1 @@
+"C:\Program Files\LOVE\love.exe" "C:\Users\Mindl\Desktop\love\testing"
